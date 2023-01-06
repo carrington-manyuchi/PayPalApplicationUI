@@ -339,6 +339,10 @@
                     </view>
                     <navigationItem key="navigationItem" id="Wtn-Uv-c5w"/>
                     <size key="freeformSize" width="414" height="1050"/>
+                    <connections>
+                        <outlet property="balanceView" destination="xXu-kf-yQW" id="1cZ-Oa-Fky"/>
+                        <outlet property="getMoreView" destination="arp-7j-4IH" id="Mv9-2T-5pq"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
